@@ -1,0 +1,5 @@
+Attack,R_PSNR,R_SSIM,R_LPIPS,Info_BER,Code_BER,Decoded_Block_Ratio
+"JPEG (Q=40)",27.34,0.8719,0.1662,0.1286,0.1608,0.8742
+"Gaussian noise (sigma=0.02)",25.71,0.8396,0.2024,0.1749,0.2137,0.8291
+"Resize (0.5x)",29.06,0.9028,0.1236,0.0862,0.1129,0.9167
+"Gaussian blur (5x5, sigma=1.0)",31.48,0.9312,0.0846,0.0417,0.0628,0.9563
