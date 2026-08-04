@@ -1,0 +1,11 @@
+# Install torch / torchvision separately according to your CUDA runtime first,
+# then install the common project dependencies below.
+
+pillow
+pyyaml
+numpy
+scipy
+lpips
+scikit-learn
+clean-fid
+imquality
