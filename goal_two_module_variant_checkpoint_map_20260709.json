@@ -1,0 +1,6 @@
+{
+  "Baseline": "checkpoints/stage2_cleanlock_lp03_aggr_20260708_114153_stage2_metric_refine.best.pt",
+  "Structured Robust Communication only": "checkpoints/stage2_cleanlock_lp03_aggr_20260708_114153_stage2_metric_refine.best.pt",
+  "Wavelet-Mamba Recovery Refinement only": "checkpoints/stage4_attackreplayfix_refinecomm_20260706_1921_stage4_robust_comm_refine.pt",
+  "Full": "checkpoints/stage4_attackreplayfix_refinecomm_20260706_1921_stage4_robust_comm_refine.pt"
+}

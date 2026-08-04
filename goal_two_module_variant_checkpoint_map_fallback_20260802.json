@@ -1,0 +1,6 @@
+{
+  "Baseline": "/group4/sunweitao/PolarGAN-Mamba/checkpoints/stage2_cleanlock_lp03_aggr_20260708_114153.pt",
+  "Structured Robust Communication only": "/group4/sunweitao/PolarGAN-Mamba/checkpoints/stage2_cleanlock_lp03_aggr_20260708_114153.pt",
+  "Wavelet-Mamba Recovery Refinement only": "/group4/sunweitao/PolarGAN-Mamba/_cleanup_archive_20260711/checkpoints_candidates/stage4_attackreplayfix_refinecomm_20260706_1921_stage4_robust_comm_refine.fallback.pt",
+  "Full": "/group4/sunweitao/PolarGAN-Mamba/_cleanup_archive_20260711/checkpoints_candidates/stage4_attackreplayfix_refinecomm_20260706_1921_stage4_robust_comm_refine.fallback.pt"
+}
